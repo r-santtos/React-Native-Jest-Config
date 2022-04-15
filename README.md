@@ -1,3 +1,6 @@
+# Documentações
+[TDD componente Image](https://github.com/r-santtos/TDDs-React-Native/tree/main/src/components/Images)
+
 # Configurando JEST em React Native
 ### Módulos e Bibliotecas
 - jest
