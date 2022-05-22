@@ -5,19 +5,23 @@
 ### Módulos e Bibliotecas
 - jest
 ```bash
-  yarn add jest -D
+yarn add jest -D
 ```
 - jest-expo
 ```bash
-  yarn add jest-expo -D
+yarn add jest-expo -D
 ```
 - @types/jest
 ```bash
-  yarn add @types/jest -D
+yarn add @types/jest -D
 ```
 - @testing-library/react-native
 ```bash
-  yarn add @testing-library/react-native -D
+yarn add @testing-library/react-native -D
+```
+- Add typescript
+```bash
+yarn add -D typescript @types/jest @types/react @types/react-native @types/react-test-renderer
 ```
 ******
 ### Configurando o arquivo "package.json"
