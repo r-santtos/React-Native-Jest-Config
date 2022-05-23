@@ -21,7 +21,7 @@ yarn add @testing-library/react-native -D
 ```
 - Add typescript
 ```bash
-yarn add -D typescript @types/jest @types/react @types/react-native @types/react-test-renderer
+yarn add -D typescript @types/jest @types/react-test-renderer
 ```
 ******
 ### Configurando o arquivo "package.json"
